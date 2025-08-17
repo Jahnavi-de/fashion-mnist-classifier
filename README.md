@@ -33,4 +33,4 @@ Coat,
 Sandal,
 Shirt,
 Sneaker,
-Bag,
+Bag.

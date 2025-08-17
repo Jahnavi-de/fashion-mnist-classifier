@@ -25,12 +25,12 @@ Accuracy: ~ (add your test accuracy here)
 
 The model predicts one of the following 10 classes:
 
-T-shirt/top
-Trouser
-Pullover
-Dress
-Coat
-Sandal
-Shirt
-Sneaker
-Bag
+T-shirt/top,
+Trouser,
+Pullover,
+Dress,
+Coat,
+Sandal,
+Shirt,
+Sneaker,
+Bag,
